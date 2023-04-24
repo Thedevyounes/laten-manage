@@ -1,0 +1,37 @@
+{
+  "menu": [
+    {
+      "url": "/",
+      "name": "Dashboard",
+      "icon": "menu-icon tf-icons bx bx-home-circle",
+      "slug": "dashboard-analytics"
+    },
+    {
+      "menuHeader": "Pages"
+    },
+    {
+      "url": "/pages/e-social",
+      "icon": "menu-icon tf-icons bx bxs-business",
+      "name": "E Sociale",
+      "slug": "pages-e-social"
+    },
+    {
+      "url": "/pages/e-physique",
+      "icon": "menu-icon tf-icons bx bxs-user",
+      "name": "E Physique",
+      "slug": "pages-e-physique"
+    },
+    {
+      "url": "/contraterror",
+      "icon": "menu-icon tf-icons bx bx-task",
+      "name": "Contrat error",
+      "slug": "contraterror"
+    },
+    {
+      "url": "/preClientRemise",
+      "icon": "menu-icon tf-icons bx bxs-user-check",
+      "name": "Client a Remisé",
+      "slug": "preClientRemise"
+    }
+  ]
+}
